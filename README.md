@@ -322,11 +322,8 @@ network-flow-analysis/
 │   └── basic_test.cpp
 │
 ├── tools/
-│   └── synflood_gen.py
-│
-└── test_data/
-    ├── http.cap
-    └── synflood.cap
+    └── synflood_gen.py
+
 ```
 
 ---
